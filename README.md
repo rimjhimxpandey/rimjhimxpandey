@@ -56,7 +56,30 @@
 
 ---
 
-### 📂 Selected Projects on GitHub
+### 📂 Selected Projects
+
+#### 🚌 AI-Driven Public Transport Demand Forecasting & Service Optimisation for Galway
+> *Sep 2025 – Apr 2026 · MSc Capstone · University of Galway, J.E. Cairnes School of Business & Economics*
+> 🔗 GitHub repo coming soon
+
+- Solved a real-world public transport challenge by forecasting passenger demand to support smarter fleet allocation and service planning in Galway
+- Integrated and analysed **4+ heterogeneous data sources**: GTFS public transport schedules, weather data, passenger survey responses (168 respondents), and publicly available transport reports
+- Cleaned, transformed, and merged datasets into a unified analytical dataset suitable for predictive modelling
+- Engineered features such as peak hours, weekdays/weekends, weather conditions, and travel patterns to improve model performance
+- Developed an **LSTM time-series forecasting model** to predict future passenger demand and identify potential overcrowding periods
+- Designed interactive **Tableau dashboards** to visualise demand trends, route performance, peak travel periods, and forecasting insights for stakeholders
+- Translated analytical findings into business recommendations to improve service efficiency, optimise resource allocation, reduce overcrowding, and enhance passenger experience
+- Applied the full Business Analytics lifecycle: Business Understanding → Data Collection → Data Preparation → Feature Engineering → Predictive Analytics → Data Visualisation → Business Decision Support
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-FF6B6B?style=flat)
+![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-764ba2?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-0e75b6?style=flat)
+
+---
+
+### 💻 Other Projects on GitHub
 
 - 🚕 **[MakeMyTrip](https://github.com/rimjhimxpandey/MakeMyTrip)**
   Booking Outstation Cabs – automation flows for core booking journeys.
