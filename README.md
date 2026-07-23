@@ -106,6 +106,21 @@
 - Delivered **five targeted, low-cost recommendations** (e.g. regularising Route 405 evening headways to a 55–60 min clock-face interval; extending Sunday last departures on 404/405 to 22:00) ahead of full BusConnects Galway implementation
 - Applied the full Business Analytics lifecycle: Business Understanding → Data Collection → Data Preparation → Feature Engineering → AI-Assisted Diagnostics → Findings → Business Recommendations
 
+<table>
+<tr>
+<td width="50%"><img src="assets/research-dashboards/01_frequency_by_route_period.png" width="100%" alt="Service frequency by route and time period" /></td>
+<td width="50%"><img src="assets/research-dashboards/02_headway_consistency.png" width="100%" alt="Headway consistency by route and segment" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="assets/research-dashboards/03_survey_satisfaction.png" width="100%" alt="Passenger survey satisfaction and reliability metrics" /></td>
+<td width="50%"><img src="assets/research-dashboards/05_cluster_profiles.png" width="100%" alt="AI-identified service profiles from K-means clustering" /></td>
+</tr>
+</table>
+
+<p>
+<sub>Charts built from the manuscript's own GTFS and survey data tables (n=168 respondents, Jan–Dec 2025).</sub>
+</p>
+
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
 <img src="https://img.shields.io/badge/GTFS-0e75b6?style=flat" />
