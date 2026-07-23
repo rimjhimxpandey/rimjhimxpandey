@@ -18,11 +18,20 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif" alt="Coding" />
 
-- **MSc Business Analytics (First Class Honours, 1:1)** – University of Galway, J.E. Cairnes School of Business & Economics
-- 2+ years of experience in **QA Automation Testing** at Cognizant (Selenium, Java, Cucumber, Robot Framework)
-- Based in **Galway, Ireland** and open to roles in Business Analysis, QA / Automation, and Data / Analytics
-- Actively leveraging **GenAI tools** (GitHub Copilot, prompt engineering) to streamline QA workflows and boost productivity
-- Passionate about connecting technical, analytical and human-centric thinking to deliver **impactful business solutions**
+#### Education
+MSc Business Analytics (First Class Honours, 1:1) – University of Galway, J.E. Cairnes School of Business & Economics
+
+#### Experience
+2+ years in QA Automation Testing at Cognizant (Selenium, Java, Cucumber, Robot Framework)
+
+#### Location & Focus
+Based in Galway, Ireland — open to roles in Business Analysis, QA / Automation, and Data / Analytics
+
+#### Tooling
+Actively leveraging GenAI tools (GitHub Copilot, prompt engineering) to streamline QA workflows and boost productivity
+
+#### Approach
+Connecting technical, analytical and human-centric thinking to deliver impactful business solutions
 
 <br clear="right"/>
 
