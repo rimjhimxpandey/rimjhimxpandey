@@ -1,15 +1,20 @@
-[![MasterHead](https://raw.githubusercontent.com/lucalas/lucalas/master/Banner.png)](https://www.linkedin.com/in/rimjhimxpandey)
-<h1 align="center">Hey 👋, I'm Rimjhim</h1>
-<h3 align="center">Business Analyst | Automation Test Engineer | Quality Assurance</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rimjhimxpandey&label=Profile%20views&color=0e75b6&style=flat" alt="rimjhimxpandey" /> </p>
+<img width="100%" src="https://raw.githubusercontent.com/lucalas/lucalas/master/Banner.png" alt="Rimjhim Pandey" />
 
-<p align="left"> <a href="https://twitter.com/rimjhimxpandey" target="blank"><img src="https://img.shields.io/twitter/follow/rimjhimxpandey?logo=twitter&style=for-the-badge" alt="rimjhimxpandey" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Business+Analyst+%F0%9F%93%8A;Automation+Test+Engineer+%F0%9F%A4%96;Quality+Assurance+%E2%9C%85;MSc+Business+Analytics+%E2%80%94+First+Class+Honours+%F0%9F%8E%93" alt="Typing SVG" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=rimjhimxpandey&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://www.linkedin.com/in/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/twitter/follow/rimjhimxpandey?logo=twitter&style=for-the-badge" /></a>
+</p>
+
+</div>
 
 ---
 
-### 🎯 About Me
+## 🎯 About Me
 
 - 🎓 **MSc Business Analytics (First Class Honours, 1:1)** – University of Galway, J.E. Cairnes School of Business & Economics
 - 💼 2+ years of experience in **QA Automation Testing** at Cognizant (Selenium, Java, Cucumber, Robot Framework)
@@ -17,28 +22,50 @@
 - 🤖 Actively leveraging **GenAI tools** (GitHub Copilot, prompt engineering) to streamline QA workflows and boost productivity
 - 💬 Passionate about connecting technical, analytical and human-centric thinking to deliver **impactful business solutions**
 
----
-
-### 🧠 What I Work With
-
-- **QA & Automation:** Selenium · Java · Cucumber · Robot Framework · Test case design · Defect management
-- **Ways of Working:** Agile · Scrum · Jira · Zephyr · Client communication · Sprint ceremonies
-- **Data & Analytics:** SQL · Data analysis · Business analytics methods · Reporting & insight generation
-- **Tools & Platforms:** GitHub · Google Cloud Platform (GCP) · Jenkins · MS SQL Server · MySQL
-
-<p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://cucumber.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="cucumber" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+<br/>
 
 ---
 
-### 🏆 Highlights & Recent Milestones
+## 🧠 Tech Stack
+
+<div align="center">
+
+**QA & Automation**
+
+<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="48" height="48" />
+
+<br/><br/>
+
+**Ways of Working**
+
+<img src="https://skillicons.dev/icons?i=jira" title="Jira" alt="Jira" />
+<img src="https://skillicons.dev/icons?i=git,github" title="Git · GitHub" alt="Git GitHub" />
+
+<br/><br/>
+
+**Data & Analytics**
+
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MS SQL Server" alt="MS SQL Server" width="48" height="48" />
+<img src="https://skillicons.dev/icons?i=tableau" title="Tableau" alt="Tableau" />
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+
+<br/><br/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="GCP" />
+<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 Highlights & Recent Milestones
 
 - 🎓 Completed **MSc Business Analytics with First Class Honours (1:1)** at the University of Galway
 - 🏅 Awarded the **University of Galway Employability Award (Excellent Standard)** for reflection, skills development and career readiness
@@ -46,19 +73,23 @@
 - 🌍 Served as a **Global Student Ambassador / volunteer**, facilitating **LIFT Ireland** sessions and ALIVE activities
 - 🧪 Delivered automation projects for **Toyota Motors North America's Warranty Area Hub Application** and multiple internal Cognizant applications
 
+<br/>
+
 ---
 
-### 🌱 Beyond Work
+## 🌱 Beyond Work
 
 - 📌 Active in **student engagement, volunteering and community initiatives** (ALIVE, LIFT Ireland, University Skills Passport)
 - 🎙 Enjoy **storytelling, writing and sharing experiences** about careers, growth, and student life
 - 🤝 Believe in "learning by doing" – saying *yes* to new rooms, conversations and challenges
 
+<br/>
+
 ---
 
-### 📂 Selected Projects
+## 🚀 Featured Project
 
-#### 🚌 AI-Driven Public Transport Demand Forecasting & Service Optimisation for Galway
+### 🚌 AI-Driven Public Transport Demand Forecasting & Service Optimisation for Galway
 > *Sep 2025 – Apr 2026 · MSc Capstone · University of Galway, J.E. Cairnes School of Business & Economics*
 > 🔗 GitHub repo coming soon
 
@@ -71,50 +102,118 @@
 - Translated analytical findings into business recommendations to improve service efficiency, optimise resource allocation, reduce overcrowding, and enhance passenger experience
 - Applied the full Business Analytics lifecycle: Business Understanding → Data Collection → Data Preparation → Feature Engineering → Predictive Analytics → Data Visualisation → Business Decision Support
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![LSTM](https://img.shields.io/badge/LSTM-FF6B6B?style=flat)
-![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-764ba2?style=flat)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-0e75b6?style=flat)
-
----
-
-### 💻 Other Projects on GitHub
-
-- 🚕 **[MakeMyTrip](https://github.com/rimjhimxpandey/MakeMyTrip)**
-  Booking Outstation Cabs – automation flows for core booking journeys.
-
-- 📨 **[UnregisteredUserVerification_Cts](https://github.com/rimjhimxpandey/UnregisteredUserVerification_Cts)**
-  Automated verification for unregistered user flows and email validation.
-
-- 🌐 **[CAS_Project](https://github.com/rimjhimxpandey/CAS_Project)**
-  Automation to navigate to Be.Cognizant and capture user information.
-
-- 🎯 **[HTMLCSS-LandingPage](https://github.com/rimjhimxpandey/HTMLCSS-LandingPage)**
-  Rock climbing company landing page with HTML & CSS (forked and customised).
-
-- 📱 **[app-landing-page](https://github.com/rimjhimxpandey/app-landing-page)**
-  Simple app landing page using SCSS.
-
-- 🖥 **[landing-page](https://github.com/rimjhimxpandey/landing-page)**
-  Basic HTML/CSS landing page with live demo.
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rimjhimxpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rimjhimxpandey" height="30" width="40" /></a>
-<a href="https://twitter.com/rimjhimxpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rimjhimxpandey" height="30" width="40" /></a>
-<a href="https://instagram.com/rimjhimxpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rimjhimxpandey" height="30" width="40" /></a>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/LSTM-FF6B6B?style=flat" />
+<img src="https://img.shields.io/badge/Time_Series_Forecasting-764ba2?style=flat" />
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Predictive_Analytics-0e75b6?style=flat" />
 </p>
 
-- 📧 Email: **rimjhim12k@gmail.com**
+<br/>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rimjhimxpandey&show_icons=true&locale=en&layout=compact" alt="rimjhimxpandey" /></p>
+## 💻 QA Automation Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimjhimxpandey&show_icons=true&locale=en" alt="rimjhimxpandey" /></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimjhimxpandey&" alt="rimjhimxpandey" /></p>
+### 🚕 [MakeMyTrip](https://github.com/rimjhimxpandey/MakeMyTrip)
+> Booking Outstation Cabs — core booking journey automation
+
+- Cab search, gift card redemption, and hotel adult-list flows
+- **Cucumber BDD** feature files + **TestNG** test suites
+- Page Object Model with `ExtentReports` reporting
+
+<img src="https://raw.githubusercontent.com/rimjhimxpandey/MakeMyTrip/main/ScreenShots/selectSuv%202024-04-21%2001.51.05.png" width="100%" alt="MakeMyTrip automation screenshot" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/TestNG-EF2D5E?style=flat" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [CAS_Project](https://github.com/rimjhimxpandey/CAS_Project)
+> Be.Cognizant Holiday Schedules — data validation & cross-browser testing
+
+- Validates holiday calendar data, PDF filters, and version history
+- Data-driven approach with **Apache POI** for Excel handling
+- Verified across **Chrome and Edge**
+
+<img src="https://raw.githubusercontent.com/rimjhimxpandey/CAS_Project/main/screenShots/validateCalendarName%2020240405033941.png" width="100%" alt="CAS_Project automation screenshot" />
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/TestNG-EF2D5E?style=flat" />
+<img src="https://img.shields.io/badge/Apache_POI-D22128?style=flat" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📨 [UnregisteredUserVerification_Cts](https://github.com/rimjhimxpandey/UnregisteredUserVerification_Cts)
+> Automated verification for unregistered user flows and email validation
+
+- Validates error handling for unregistered user email flows
+- Lightweight Selenium + Maven test project
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 [HTMLCSS-LandingPage](https://github.com/rimjhimxpandey/HTMLCSS-LandingPage)
+> Rock climbing company landing page (forked & customised)
+
+- Front-end practice project built with **HTML & CSS**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📦 More front-end practice projects</summary>
+<br/>
+
+- 📱 **[app-landing-page](https://github.com/rimjhimxpandey/app-landing-page)** — Simple app landing page using SCSS
+- 🖥 **[landing-page](https://github.com/rimjhimxpandey/landing-page)** — Basic HTML/CSS landing page with live demo
+
+</details>
+
+<br/>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rimjhimxpandey&show_icons=true&locale=en&theme=default" alt="rimjhimxpandey stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimjhimxpandey&show_icons=true&locale=en&layout=compact" alt="rimjhimxpandey top langs" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimjhimxpandey" alt="rimjhimxpandey streak stats" />
+</div>
+
+<br/>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://instagram.com/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:rimjhim12k@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
