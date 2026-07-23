@@ -200,8 +200,8 @@
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rimjhimxpandey&show_icons=true&locale=en&theme=default" alt="rimjhimxpandey stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rimjhimxpandey&show_icons=true&locale=en&layout=compact" alt="rimjhimxpandey top langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rimjhimxpandey&show_icons=true&locale=en&theme=default" alt="rimjhimxpandey stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rimjhimxpandey&show_icons=true&locale=en&layout=compact" alt="rimjhimxpandey top langs" />
 </div>
 
 <div align="center">
