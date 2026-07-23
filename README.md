@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/lucalas/lucalas/master/Banner.png" alt="Rimjhim Pandey" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Business+Analyst+%F0%9F%93%8A;Automation+Test+Engineer+%F0%9F%A4%96;Quality+Assurance+%E2%9C%85;MSc+Business+Analytics+%E2%80%94+First+Class+Honours+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=750&lines=Business+Analyst;Automation+Test+Engineer;Quality+Assurance;MSc+Business+Analytics+%E2%80%94+First+Class+Honours" alt="Typing SVG" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=rimjhimxpandey&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=rimjhimxpandey&label=Profile+views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <a href="https://www.linkedin.com/in/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/twitter/follow/rimjhimxpandey?logo=twitter&style=for-the-badge" /></a>
 </p>
@@ -14,50 +14,53 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
-- 🎓 **MSc Business Analytics (First Class Honours, 1:1)** – University of Galway, J.E. Cairnes School of Business & Economics
-- 💼 2+ years of experience in **QA Automation Testing** at Cognizant (Selenium, Java, Cucumber, Robot Framework)
-- 📍 Based in **Galway, Ireland** and **open to roles** in Business Analysis, QA / Automation, and Data / Analytics
-- 🤖 Actively leveraging **GenAI tools** (GitHub Copilot, prompt engineering) to streamline QA workflows and boost productivity
-- 💬 Passionate about connecting technical, analytical and human-centric thinking to deliver **impactful business solutions**
+- **MSc Business Analytics (First Class Honours, 1:1)** – University of Galway, J.E. Cairnes School of Business & Economics
+- 2+ years of experience in **QA Automation Testing** at Cognizant (Selenium, Java, Cucumber, Robot Framework)
+- Based in **Galway, Ireland** and open to roles in Business Analysis, QA / Automation, and Data / Analytics
+- Actively leveraging **GenAI tools** (GitHub Copilot, prompt engineering) to streamline QA workflows and boost productivity
+- Passionate about connecting technical, analytical and human-centric thinking to deliver **impactful business solutions**
 
 <br/>
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 **QA & Automation**
 
-<img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title="Selenium" alt="Selenium" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" title="Cucumber" alt="Cucumber" width="48" height="48" />
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TestNG-EF2D5E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Robot_Framework-000000?logo=robotframework&logoColor=white&style=for-the-badge" />
 
 <br/><br/>
 
 **Ways of Working**
 
-<img src="https://skillicons.dev/icons?i=jira" title="Jira" alt="Jira" />
-<img src="https://skillicons.dev/icons?i=git,github" title="Git · GitHub" alt="Git GitHub" />
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 
 <br/><br/>
 
 **Data & Analytics**
 
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" title="MS SQL Server" alt="MS SQL Server" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=tableau" title="Tableau" alt="Tableau" />
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
 <br/><br/>
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=gcp" title="Google Cloud Platform" alt="GCP" />
-<img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
 
 </div>
 
@@ -65,33 +68,33 @@
 
 ---
 
-## 🏆 Highlights & Recent Milestones
+## Highlights & Recent Milestones
 
-- 🎓 Completed **MSc Business Analytics with First Class Honours (1:1)** at the University of Galway
-- 🏅 Awarded the **University of Galway Employability Award (Excellent Standard)** for reflection, skills development and career readiness
-- 🏆 Received the **President's ALIVE Award** for volunteering, linked with **UN SDG 4 – Quality Education**
-- 🌍 Served as a **Global Student Ambassador / volunteer**, facilitating **LIFT Ireland** sessions and ALIVE activities
-- 🧪 Delivered automation projects for **Toyota Motors North America's Warranty Area Hub Application** and multiple internal Cognizant applications
-
-<br/>
-
----
-
-## 🌱 Beyond Work
-
-- 📌 Active in **student engagement, volunteering and community initiatives** (ALIVE, LIFT Ireland, University Skills Passport)
-- 🎙 Enjoy **storytelling, writing and sharing experiences** about careers, growth, and student life
-- 🤝 Believe in "learning by doing" – saying *yes* to new rooms, conversations and challenges
+- Completed **MSc Business Analytics with First Class Honours (1:1)** at the University of Galway
+- Awarded the **University of Galway Employability Award (Excellent Standard)** for reflection, skills development and career readiness
+- Received the **President's ALIVE Award** for volunteering, linked with **UN SDG 4 – Quality Education**
+- Served as a **Global Student Ambassador / volunteer**, facilitating **LIFT Ireland** sessions and ALIVE activities
+- Delivered automation projects for **Toyota Motors North America's Warranty Area Hub Application** and multiple internal Cognizant applications
 
 <br/>
 
 ---
 
-## 🚀 Featured Project
+## Beyond Work
 
-### 🚌 AI-Driven Public Transport Demand Forecasting & Service Optimisation for Galway
+- Active in **student engagement, volunteering and community initiatives** (ALIVE, LIFT Ireland, University Skills Passport)
+- Enjoy **storytelling, writing and sharing experiences** about careers, growth, and student life
+- Believe in "learning by doing" – saying yes to new rooms, conversations and challenges
+
+<br/>
+
+---
+
+## Featured Project
+
+### AI-Driven Public Transport Demand Forecasting & Service Optimisation for Galway
 > *Sep 2025 – Apr 2026 · MSc Capstone · University of Galway, J.E. Cairnes School of Business & Economics*
-> 🔗 GitHub repo coming soon
+> GitHub repo coming soon
 
 - Solved a real-world public transport challenge by forecasting passenger demand to support smarter fleet allocation and service planning in Galway
 - Integrated and analysed **4+ heterogeneous data sources**: GTFS public transport schedules, weather data, passenger survey responses (168 respondents), and publicly available transport reports
@@ -114,13 +117,13 @@
 
 ---
 
-## 💻 QA Automation Projects
+## QA Automation Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚕 [MakeMyTrip](https://github.com/rimjhimxpandey/MakeMyTrip)
+### [MakeMyTrip](https://github.com/rimjhimxpandey/MakeMyTrip)
 > Booking Outstation Cabs — core booking journey automation
 
 - Cab search, gift card redemption, and hotel adult-list flows
@@ -137,7 +140,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [CAS_Project](https://github.com/rimjhimxpandey/CAS_Project)
+### [CAS_Project](https://github.com/rimjhimxpandey/CAS_Project)
 > Be.Cognizant Holiday Schedules — data validation & cross-browser testing
 
 - Validates holiday calendar data, PDF filters, and version history
@@ -156,7 +159,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📨 [UnregisteredUserVerification_Cts](https://github.com/rimjhimxpandey/UnregisteredUserVerification_Cts)
+### [UnregisteredUserVerification_Cts](https://github.com/rimjhimxpandey/UnregisteredUserVerification_Cts)
 > Automated verification for unregistered user flows and email validation
 
 - Validates error handling for unregistered user email flows
@@ -169,7 +172,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎯 [HTMLCSS-LandingPage](https://github.com/rimjhimxpandey/HTMLCSS-LandingPage)
+### [HTMLCSS-LandingPage](https://github.com/rimjhimxpandey/HTMLCSS-LandingPage)
 > Rock climbing company landing page (forked & customised)
 
 - Front-end practice project built with **HTML & CSS**
@@ -182,11 +185,11 @@
 </table>
 
 <details>
-<summary>📦 More front-end practice projects</summary>
+<summary>More front-end practice projects</summary>
 <br/>
 
-- 📱 **[app-landing-page](https://github.com/rimjhimxpandey/app-landing-page)** — Simple app landing page using SCSS
-- 🖥 **[landing-page](https://github.com/rimjhimxpandey/landing-page)** — Basic HTML/CSS landing page with live demo
+- **[app-landing-page](https://github.com/rimjhimxpandey/app-landing-page)** — Simple app landing page using SCSS
+- **[landing-page](https://github.com/rimjhimxpandey/landing-page)** — Basic HTML/CSS landing page with live demo
 
 </details>
 
@@ -194,7 +197,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rimjhimxpandey&show_icons=true&locale=en&theme=default" alt="rimjhimxpandey stats" />
@@ -209,7 +212,7 @@
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rimjhimxpandey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
