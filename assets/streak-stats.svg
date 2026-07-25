@@ -2,7 +2,7 @@
 <rect x="0.5" y="0.5" rx="8" width="494" height="194" fill="#0d1117" stroke="#30363d"/>
 <line x1="165.0" y1="30" x2="165.0" y2="165" stroke="#30363d"/>
 <line x1="330.0" y1="30" x2="330.0" y2="165" stroke="#30363d"/>
-<text x="82.5" y="80" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" text-anchor="middle">24</text>
+<text x="82.5" y="80" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" text-anchor="middle">25</text>
 <text x="82.5" y="110" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" text-anchor="middle">Total Contributions</text>
 <text x="247.5" y="80" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" text-anchor="middle">3</text>
 <text x="247.5" y="110" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" text-anchor="middle">Current Streak</text>
