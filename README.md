@@ -228,12 +228,12 @@ Connecting technical, analytical and human-centric thinking to deliver impactful
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rimjhimxpandey&show_icons=true&locale=en&theme=default" alt="rimjhimxpandey stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rimjhimxpandey&show_icons=true&locale=en&layout=compact" alt="rimjhimxpandey top langs" />
+<img height="180em" src="assets/github-stats.svg" />
+<img height="180em" src="assets/top-langs.svg" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimjhimxpandey" alt="rimjhimxpandey streak stats" />
+<img src="assets/streak-stats.svg" />
 </div>
 
 <br/>
