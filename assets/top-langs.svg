@@ -1,21 +1,24 @@
-<svg width="380" height="200" viewBox="0 0 380 200" xmlns="http://www.w3.org/2000/svg">
-<rect x="0.5" y="0.5" rx="6" width="379" height="199" fill="#0d1117" stroke="#30363d"/>
+<svg width="380" height="228" viewBox="0 0 380 228" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.5" y="0.5" rx="6" width="379" height="227" fill="#0d1117" stroke="#30363d"/>
 <text x="25" y="35" fill="#58a6ff" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600">Most Used Languages</text>
 <g>
-<rect x="25.0" y="55" width="174.3" height="10" fill="#b07219"/>
-<rect x="199.3" y="55" width="100.4" height="10" fill="#8e8e8e"/>
-<rect x="299.7" y="55" width="51.1" height="10" fill="#e34c26"/>
-<rect x="350.8" y="55" width="4.0" height="10" fill="#8e8e8e"/>
-<rect x="354.8" y="55" width="2.0" height="10" fill="#8e8e8e"/>
+<rect x="25.0" y="55" width="157.7" height="10" fill="#b07219"/>
+<rect x="182.7" y="55" width="90.9" height="10" fill="#8e8e8e"/>
+<rect x="273.5" y="55" width="46.2" height="10" fill="#e34c26"/>
+<rect x="319.7" y="55" width="31.5" height="10" fill="#3572A5"/>
+<rect x="351.2" y="55" width="3.6" height="10" fill="#8e8e8e"/>
+<rect x="354.9" y="55" width="2.0" height="10" fill="#8e8e8e"/>
 </g>
 <circle cx="25" cy="90" r="5" fill="#b07219"/>
-<text x="39" y="95" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Java 52.8%</text>
+<text x="39" y="95" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Java 47.8%</text>
 <circle cx="195" cy="90" r="5" fill="#8e8e8e"/>
-<text x="209" y="95" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">SCSS 30.4%</text>
+<text x="209" y="95" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">SCSS 27.5%</text>
 <circle cx="25" cy="116" r="5" fill="#e34c26"/>
-<text x="39" y="121" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML 15.5%</text>
-<circle cx="195" cy="116" r="5" fill="#8e8e8e"/>
-<text x="209" y="121" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Gherkin 1.2%</text>
+<text x="39" y="121" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">HTML 14.0%</text>
+<circle cx="195" cy="116" r="5" fill="#3572A5"/>
+<text x="209" y="121" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Python 9.5%</text>
 <circle cx="25" cy="142" r="5" fill="#8e8e8e"/>
-<text x="39" y="147" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Ruby 0.0%</text>
+<text x="39" y="147" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Gherkin 1.1%</text>
+<circle cx="195" cy="142" r="5" fill="#8e8e8e"/>
+<text x="209" y="147" fill="#c9d1d9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Ruby 0.0%</text>
 </svg>
