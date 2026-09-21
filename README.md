@@ -25,7 +25,7 @@ MSc Business Analytics (First Class Honours, 1:1) – University of Galway, J.E.
 2+ years in QA Automation Testing at Cognizant (Selenium, Java, Cucumber, Robot Framework)
 
 #### Location & Focus
-Based in Galway, Ireland — open to roles in Business Analysis, QA / Automation, and Data / Analytics
+Based in Galway, Ireland — open to roles in Quality Assurance / SDET / Automation, and Business Analytics
 
 #### Tooling
 Actively leveraging GenAI tools (GitHub Copilot, prompt engineering) to streamline QA workflows and boost productivity
